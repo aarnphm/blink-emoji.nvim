@@ -13,7 +13,8 @@ An emoji source for [blink.cmp](https://github.com/Saghen/blink.cmp).
 {
   "saghen/blink.cmp",
   dependencies = {
-      "moyiz/blink-emoji.nvim",
+    "saghen/blink.lib",
+    "aarnphm/blink-emoji.nvim",
   },
   opts = {
     sources = {
